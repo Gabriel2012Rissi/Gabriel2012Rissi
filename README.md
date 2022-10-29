@@ -24,9 +24,10 @@
   <div style="display: inline_block">
     <img align="center" alt="Rails" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
     <img align="center" alt="Cucumber" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+    <img align="center" alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="center" alt="Jenkins" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
     <img align="center" alt="Gitlab" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-    <img align="center" alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="Terraform" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
     <img align="center" alt="Kubernetes" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   </div>
 </div>
