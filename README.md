@@ -3,8 +3,7 @@
   <div>
     <h3>About me</h3>
     <p align="justify">
-      Meu nome é Gabriel Rissi, tenho 28 anos e sou formado em Sistemas de Informação pelo CEUCLAR. No momento atuo principalmente como desenvolvedor Ruby, 
-      além de ser um apaixonado :heart: pela cultura DevOps e por quadrinhos... :nerd_face::books:
+      Meu nome é Gabriel Rissi, tenho 28 anos e sou formado em Sistemas de Informação pelo CEUCLAR. Sou um apaixonado :heart: pela cultura DevOps e por quadrinhos... :nerd_face::books:
     </p>
   </div>
 </div>
